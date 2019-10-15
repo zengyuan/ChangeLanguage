@@ -1,0 +1,25 @@
+<resources>
+    <!--  英语-->
+    <string name="language">language</string>
+    <string name="app_name">VerifyDemo</string>
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+    <string name="Japanese">Japanese</string>
+
+    <string name="main_jiq_gn">机器功能</string>
+    <string name="main_jiq_gn1"> . . . . . . . . . . . . . . . . . .</string>
+    <string name="main_hzjzq">回收/真空/加注/再生/清洗</string>
+    <string name="main_pp">品牌</string>
+    <string name="main_lax">LAX</string>
+    <string name="main_xing_hao">型号</string>
+    <string name="main_lx_ver">LX-899</string>
+    <string name="main_xu_lh">序列号</string>
+    <string name="main_vjk">180600524</string>
+    <string name="main_ruan_ver">软件版本</string>
+    <string name="main_vver">L181.0</string>
+    <string name="main_jian_ver">硬件版本</string>
+    <string name="main_ver_date">2081212</string>
+    <string name="main_base_data">数据库版本</string>
+    <string name="main_data_ver">20190102</string>
+</resources>
+
